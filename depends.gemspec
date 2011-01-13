@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.email       = ["btaylor@agoragames.com"]
   s.homepage    = "http://rubygems.org/gems/depends"
   s.summary     = %q{Depends helps you organize and load your javascripts in a rails project. If you have messy javascript, you need depends.}
-  s.description = %q{TODO: Write a gem description}
+
 
   s.rubyforge_project = "depends"
 
